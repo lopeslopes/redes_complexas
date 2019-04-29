@@ -15,5 +15,5 @@ Pretendo dividir melhor meu codigo ao longo do tempo.
   - As rotinas estao separadas em 3 programas, um para cada modelo de rede estudado: 
     - waxman.py (para modelos baseados em distancia euclideana);
     - erdos_renyi.py (para modelos de grafos aleatorios);
-    - ws.py (para o estudo de redes no modelo de pequeno mundo de Watts-Strogatz e da interpolacao entre um reticulado e um grafo totalmente aleatorio).
+    - watts_strogatz.py (para o estudo de redes no modelo de pequeno mundo de Watts-Strogatz e da interpolacao entre um reticulado e um grafo totalmente aleatorio).
   - Foi adicionada a integracao parcial dos codigos com o pacote python-igraph para facilitar a obtencao de resultados rapidos como a distribuicao de graus da ede, ou o diametro, etc.
